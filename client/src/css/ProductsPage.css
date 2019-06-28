@@ -1,0 +1,15 @@
+.ProductsPageGrid {
+    display: grid;
+    grid-template-areas: 
+    "left right";
+    justify-content: space-around
+}
+
+.right {
+    margin-top: 100px
+}
+
+.grid-wrapper {
+    display: grid;
+    grid-template-columns: 80% 20%
+}
