@@ -1,0 +1,10 @@
+.notification {
+    position:fixed;
+    background: white;
+    width: 70%;
+    height: auto;
+    top:25%;
+    left:40%;
+    transform: translate(-50%,-50%);
+    z-index: 51;
+}

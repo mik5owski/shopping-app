@@ -1,0 +1,9 @@
+.page-changer-bottom-right{
+    position: fixed;
+    top: 92%;
+    left:84%
+}
+
+html {
+	scroll-behavior: smooth;
+}
